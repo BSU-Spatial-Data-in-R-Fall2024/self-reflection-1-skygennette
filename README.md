@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oQRH4AqL)
 # self-reflection-1
 This is the first of three self-reflections that you'll complete during the course. These provide an opportunity for me to learn more about you, check-in on how the course is going, and make sure that getting what you need from the course materials. **This first reflection also helps us set the standards for your assessment in the course.** As such, I'm asking that you complete this in a timely fashion and turn it in by **Aug. 30**.
 
