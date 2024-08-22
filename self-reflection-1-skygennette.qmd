@@ -1,0 +1,63 @@
+---
+title: "Self Reflection 1"
+author: "Sky Gennette"
+format: html
+css: style_textcolor.css
+---
+
+## About you
+
+1.  Please tell me a little bit about your research interests and how you imagine integrating spatial data in your research.
+
+I'm interested in using remote sensing and artificial intelligence as tools to improve ecological monitoring. I plant on integrating spatially explicit spectral data derived from remote sensing platforms including satellites and Unoccupied Aerial Systems. 
+
+2.  How do you learn best, and what do you feel is your biggest strength as a student?
+
+Especially in the context of this type of course, I learn best by walking through code and annotating during class. I feel that my biggest strength is my ability to work and problem-solve independently.
+
+
+3.  If you want to, you can set a goal for this semester for something you want to work on in the context of this course (outside of the topic matter itself) -- for example, using StackOverflow to get answers to analysis questions or using git to track progress on homeworks. If you choose to set this type of goal, what can you do to help support yourself in working toward that goal? How can I help you to meet this goal?
+
+I want to try to make my code from this and other courses easier for myself to reference back to in the future when trying to find specific pieces of code. This might be creating separate cheatsheet documents or just a good repository in github with readme files. If you know of good systems for this, that would be helpful.
+
+4.  You can, if you choose, also let me know if there is anything else you have going on this semester that you would like me to know about (e.g., field work, other courses, prepping your qualifying exam, working outside of assistantship).
+
+I do have fieldwork that I don't anticipate will interfere with this course but may due to weather delays. 
+
+## This Course
+
+5.  Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
+
+I have used R since I was an undergrad, and I now use it all the time. I am comfortable coding in R and like the community and resources it comes with. My biggest obstacle is that the packages I have worked with are somewhat limited, so I don't have a great idea of everything that is possible in R. 
+
+6.  Describe your experience working with spatial data and GIS (either in R, or ArcGIS, or QGIS etc.). How do you tend to use spatial data (e.g., making maps, desiging field sampling, buidling stastical models)?
+
+I have worked a lot with many forms of spatial data in R, ArcGIS, and QGIS. I have mostly worked with wildlife movement data, landcover datasets, and remotely sensed spectral data produce maps, create management plans, design field sampling, and do statistical analyses. The part I have the least amount of experience with is building statistically models with spatial data. 
+
+7.  How do you feel about taking this course (e.g., neutral, positive, negative) and why (e.g., aspects you are worried about, or looking forward to)?
+
+Positive! I'm really looking forward to building my R skills, especially with spatial statistics versus traditional statistics that I've had a lot of experience with. Also, I'm excited to learn how to make nice maps in R so I don't have to use ArcGIS.
+
+8.  After reviewing the syllabus, give some thought to your objectives for this course. Which parts of this course are going to be most useful to your research? What skills do you really want to focus on during the semester? Once you've given this some thought, craft 3-5 SMART objectives for you in this course. SMART objectives are Specific (e.g., I want to make maps in R), Measurable (e.g., I want to build 3 maps displaying different elements of a location in R), Achievable (e.g., I want to build 3 maps displaying different elements of a location using ggplot), Relevant (e.g., I want to build 3 maps displaying social and ecological elements of a location using ggplot), and Time-bound (e.g., I want to build 3 maps displaying social and ecological elements of a location using ggplot for the final project). Try to think about your overall objectives for the course so that we can use to assess your final project. Remember, these objectives should be based in where you are now and where you'd like to be when the course ends. If you're not sure how to answer this, schedule a meeting with me to chat about it.
+
+  1) I want to use ggplot to generate publication-quality maps showing ecological qualities of the study location for the final project.
+  
+  2) I want to build a flexdashboard using Quarto and Shiny for reporting my final project products. 
+  
+  4) I want to learn how to build an interactive map in R that effectively communicates spatial data and could be used in a dashboard or website. 
+  
+  3) I want to incorporate a statistical model for the final project that I have not used before using the new packages we'll be covering during the course.
+  
+
+9.  Given the grading 'contracts' laid out in the syllabus and your objectives above, what grade would you like to achieve in this course? How will you support yourself in achieving this grade? How can I help?
+
+I would like to achieve an A in this course. I will need to have proper time management and prioritize progress on the final project. I think that defining clear objectives for the final project and, of course, being available for questions is helpful.
+
+10. Are there topics on the syllabus that are particularly important for you? What is missing?
+All things raster are important for me. I don't have any suggestions for missing topics. 
+
+## Final Thoughts
+
+11. Is there anything else you'd like me to know about you or that you want to know about the course?
+
+I have tentative travel plans that may result in some absences, but I will be sure to communicate those to you. 
